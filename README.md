@@ -1,3 +1,3 @@
 # demo
-First git re
+First git repo
 Author - me
